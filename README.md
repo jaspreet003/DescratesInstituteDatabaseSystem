@@ -1,0 +1,13 @@
+# Descartes Institute Database System
+
+## Project Overview
+Developed a comprehensive database system for managing institutional data, encompassing courses, students, and faculty across various departments...
+
+## Technologies
+... 
+
+## Key Features
+... 
+
+## Objective
+...
