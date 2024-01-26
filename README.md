@@ -13,6 +13,6 @@ Developed a comprehensive database system for managing institutional data, encom
 - Utilized advanced SQL features for schema creation, modification, and data population.
 - Conducted complex SQL queries for data analysis and reporting.
 
-##Objective
+## Objective
 The project aimed to create an efficient and secure database system, providing a unified platform for managing and querying institutional data, thereby enhancing operational efficiency and data-driven decision-making.
 
