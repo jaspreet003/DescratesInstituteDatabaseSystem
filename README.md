@@ -5,7 +5,6 @@ Developed a comprehensive database system for managing institutional data, encom
 
 ## Technologies Used
 - **Microsoft SQL Server**
-- **Oracle SQL * Plus**
 
 ## Key Features
 - Designed both Logical (ERD) and Physical (RDM) Data Models.
